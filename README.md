@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Royan Harsha</h1>
-  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshikamadhushani&label=Profile%20views&color=0e75b6&style=flat" alt="royan" /> </p>
 <p>I am a software engineer with a strong passion for creating innovative and effective software solutions. With a solid foundation in computer science, I have acquired a comprehensive set of skills in software development, including proficiency in programming languages, databases, and software design patterns. Over the years, I have successfully developed and delivered numerous software projects, ranging from small-scale applications to complex enterprise solutions. My expertise includes both front-end and back-end development, as well as experience with testing, debugging, and maintenance. I am a detail-oriented individual who always strives for excellence and is committed to providing top-quality software products that meet or exceed the client's expectations.</p>
+
+![](https://komarev.com/ghpvc/?username=CHUKzi&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
