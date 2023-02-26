@@ -19,7 +19,7 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUKzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHUKzi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUKzi&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=CHUKzi&layout=compact)&nbsp;&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHUKzi)](https://github-readme-stats.vercel.app/api?username=CHUKzi)
 
 
 <!--
